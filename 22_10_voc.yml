@@ -2,10 +2,8 @@
 
 students: 
   - group 1:
-      name: Alexandra
       faculty: law
       specialty: international law
   - group 2:
-      name: Lizavetta
       faculty: economics
       specialty: advertisement
